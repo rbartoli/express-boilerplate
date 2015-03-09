@@ -19,8 +19,8 @@ The following features are optional (they can be anabled from the configuration 
 ## Project Setup
 
 ```bash
-$ git clone https://github.com/rbartoli/node-express-4-boilerplate.git  
-$ cd node-express-4-boilerplate 
+$ git clone https://github.com/rbartoli/express-boilerplace.git  
+$ cd express-boilerplace 
 $ npm install
 ```
 Edit the file config.js to customise your server. Then start the server with:
