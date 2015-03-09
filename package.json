@@ -1,15 +1,15 @@
 {
-  "name": "node-express-4-boilerplate",
+  "name": "express-boilerplate",
   "version": "0.1.0",
   "description": "A boilerplate application for building web apps using Node.js and Express 4, with optional support for HTTPS, MongoDB, Handlebars templating and reverse proxy.",
   "main": "server.js",
   "scripts": {
     "start": "nodemon server.js | ./node_modules/bunyan/bin/bunyan",
-    "debug": "node-inspector server.js"
+    "debug": "node-inspector --save-live-edit server.js"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/rbartoli/node-express-4-boilerplate"
+    "url": "https://github.com/rbartoli/express-boilerplate"
   },
   "keywords": [
     "node.js",
@@ -21,9 +21,9 @@
   "author": "Riccardo Bartoli",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/rbartoli/node-express-4-boilerplate/issues"
+    "url": "https://github.com/rbartoli/express-boilerplate/issues"
   },
-  "homepage": "https://github.com/rbartoli/node-express-4-boilerplate",
+  "homepage": "https://github.com/rbartoli/express-boilerplate",
   "dependencies": {
     "async": "^0.9.0",
     "body-parser": "^1.12.0",
