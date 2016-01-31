@@ -9,7 +9,7 @@ var config = {
                 enabled: false
             },
             templating: {
-                enabled: false,
+                enabled: true,
             },
             db: {
                 enabled: false,

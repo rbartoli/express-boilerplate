@@ -1,5 +1,3 @@
 exports.default = function(req, res) {
-     // res.render('index', data);
-     
-     res.send('hello world!');
+    res.render('index', {foo: 'Hello, world!'});
 };
