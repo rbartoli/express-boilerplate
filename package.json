@@ -1,6 +1,6 @@
 {
   "name": "express-boilerplate",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A boilerplate application for building web apps using Node.js and Express 4, with optional support for HTTPS, MongoDB, Handlebars templating and reverse proxy.",
   "main": "server.js",
   "scripts": {
